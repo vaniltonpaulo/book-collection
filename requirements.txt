@@ -1,0 +1,5 @@
+asgiref==3.13.0
+-e file:///Users/vaniltonpaulo/Documents/bookprojec-django
+django==6.1.2
+djangorestframework==3.17.1
+sqlparse==0.6.0
